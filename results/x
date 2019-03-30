@@ -1,0 +1,19 @@
+21:52 $ python predictive.py
+decision_tree_classifier
+# exactly matched labels:  51
+mean absolute error:  158011.850851
+ada_boost_classifier
+# exactly matched labels:  41
+mean absolute error:  203464.201702
+random_forest_classifier
+# exactly matched labels:  46
+mean absolute error:  180003.561806
+knn_classifier
+# exactly matched labels:  26
+mean absolute error:  199711.75185
+gnb_classifier
+# exactly matched labels:  0
+mean absolute error:  182089.026277
+mlp_classifier
+# exactly matched labels:  33
+mean absolute error:  189269.910437
